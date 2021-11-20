@@ -5,10 +5,12 @@
 	<meta name="viewport" content="width=device-width">
 	<link href="normalize.css" rel="stylesheet" type="text/css" />
 	<link href="style.css" rel="stylesheet" type="text/css" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
 </head>
 
 <body>
-	<header>
+    <header>
 		<h1>About Me</h1>
 	</header>
 
@@ -28,18 +30,19 @@
 		<form action="testing.php" method="post" id="contactMe">
 			<h4>Send me your questions here!</h4>
 			<label>Email: <input type="email" placeholder="Enter your email..." required></label><br>
-			<label>Name: <input type="text" placeholder="Enter your name..." required></label><br>
-			<label><textarea placeholder="Enter your comment..." required></textarea></label><br>
+			<br><label>Name: <input type="text" placeholder="Enter your name..." required></label><br>
+			<br><label><textarea placeholder="Enter your comment..." required></textarea></label><br>
 
-			<input type="submit">
+			<br><input type="submit">
 		</form>
 	</section>
 
+	<h3 id="socialHeader">My social Media:</h3>
 	<section id="socialMedia">
-		<a href="https://twitter.com/?lang=en"><img src="images/sm_twitter.png" alt="twitter"></a>
-		<a href="https://www.youtube.com/"><img src="images/sm_youtube.png" alt="youtube"></a>
+		<a href="https://twitter.com/?lang=en"><img src="images/sm_twitter.png" alt="twitter" id="twitterImg"></a>
+		<a href="https://www.youtube.com/"><img src="images/sm_youtube.png" alt="youtube" id="youtubeImg"></a>
 	</section>
 
-	<footer><p id="mainFooter">Copyright &copy 2021. All Rights Reserved.</p></footer>
+	<footer><p id="mainFooter">Copyright &copy 2021. All Rights Reserved. Website made by Jessica Lim.</p></footer>
 </body>
 </html>
