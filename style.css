@@ -588,5 +588,102 @@ footer {
         top: 196%;
         left: 49%;
     }
+
+    #resumetitle h2{
+        font-size: 40px;
+    }
+    
+    #resumetitle {
+        font-size: 30px;
+    }
+
+    #education {
+        font-size: 30px;
+    }
+    
+    #eduinfo {
+        top: 46%;
+    }
+    
+    #work {
+        font-size: 25px;
+        padding-bottom: 13%;
+    }
+    
+    #workinfo {
+        top: 90%;
+    }
+    
+    #workheader {
+        margin-left: 9%;
+        margin-top: 16%;
+        width: 19%;
+    }
+    
+    #volunteer {
+        font-size: 25px;
+    }
+    
+    #volunteerinfo {
+        top: 152%;
+    }
+    
+    #volunteerheader {
+        margin-left: 9%;
+        width: 20%;
+    }
+
+    /*portfolio*/
+    #portfoliotitle h2{
+        font-size: 40px;
+    }
+    
+    #portfoliotitle {
+        font-size: 30px;
+    }
+    
+    #portfolioOne {
+        border: 2px solid black;
+        border-radius: 5px;
+        width: 100%;
+        padding-bottom: 3%;
+        margin-top: 10px;
+    }
+    
+    #designOne {
+        top: 59%;
+    }
+    
+    #portfolioTwo {
+        border: 2px solid black;
+        border-radius: 5px;
+        width: 100%;
+        padding-bottom: 3%;
+        margin-top: 10px;
+    }
+    
+    #superviseimg {
+        padding-top: 5%;
+        display: flex;
+        width: 30%;
+        margin-left: 10%;
+        transition: width 2s;
+    }
+    
+    #superviseimg:hover{
+        width:31%;
+    }
+    
+    #achievement1 {
+        top: 156%;
+    }
+    
+    #achievement2 {
+        top: 202%;
+    }
+
+    footer {
+        font-size: 25px;
+    }
     
 }
