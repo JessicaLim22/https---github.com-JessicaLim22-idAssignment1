@@ -593,6 +593,11 @@ footer {
 
     #education {
         font-size: 30px;
+        padding-bottom: 18%;
+    }
+
+    #eduheader {
+        top: 80%;
     }
     
     #eduinfo {
@@ -709,7 +714,7 @@ footer {
     #linkedinBtn {
         padding: 20px;
         font-size: 20px;
-    }
+    }*/
 
     /*footer*/
     footer {
@@ -744,7 +749,7 @@ footer {
         width: 19%;
     }
     
-    /*#volunteer {
+    #volunteer {
         font-size: 25px;
     }*/
     
