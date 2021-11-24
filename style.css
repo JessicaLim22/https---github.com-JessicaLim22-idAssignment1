@@ -12,9 +12,9 @@ body {
     display: none;
 }
 
-img {
+/*img {
     vertical-align: middle;
-}
+}*/
 
 .pictures {
     height: auto;
@@ -112,7 +112,7 @@ header {
 }
 
 h1{
-    padding: 20px;
+    padding: 3%;
     margin: 0 auto;
 }
 
@@ -541,12 +541,7 @@ footer {
 
 /*Web 1920*/
 @media screen and (min-width: 1920px) {
-    h1 {
-        font-size: 45px;
-        padding: 3%;
-    }
-
-    ul a {
+    li a {
         padding: 30px 8px;
         font-size: 30px;
     }
@@ -564,8 +559,8 @@ footer {
         width: 25px;
     }
 
+    /*about me*/
     aside{
-        width: 45%;
         top: 133%;
         left: 49%;
     }
@@ -584,7 +579,6 @@ footer {
     }
 
     #netball{
-        width: 45%;
         top: 196%;
         left: 49%;
     }
@@ -675,15 +669,93 @@ footer {
     }
     
     #achievement1 {
-        top: 156%;
+        top: 157%;
     }
     
     #achievement2 {
         top: 202%;
     }
 
+    /*contact*/
+    #contactInfo h2{
+        font-size: 40px;
+    }
+    
+    #contactInfo {
+        font-size: 30px;
+    }
+
+    #contactInfo h4{
+        font-size: 35px;
+    }
+
+    textarea {
+        width: 11cm;
+        height: 4cm;
+    }
+
+    #socialHeader {
+        font-size: 30px;
+    }
+
+    #twitterImg {
+        width: 100%;
+    }
+    
+    #youtubeImg {
+        width: 100%;
+    }
+
+    #linkedinBtn {
+        padding: 20px;
+        font-size: 20px;
+    }
+
+    /*footer*/
     footer {
         font-size: 25px;
     }
     
+}
+
+@media screen and (min-width: 1280px) {
+    aside{
+        top: 116%;
+        left: 49%;
+    }
+
+    #netball{
+        width: 35%;
+        top: 180%;
+        left: 56%;
+    }
+
+    #work {
+        padding-bottom: 16%;
+    }
+    
+    #workinfo {
+        top: 76%;
+    }
+    
+    #workheader {
+        margin-left: 9%;
+        margin-top: 16%;
+        width: 19%;
+    }
+    
+    /*#volunteer {
+        font-size: 25px;
+    }*/
+    
+    #volunteerinfo {
+        top: 136%;
+    }
+    
+    #volunteerheader {
+        margin-left: 9%;
+        width: 20%;
+    }
+
+
 }
