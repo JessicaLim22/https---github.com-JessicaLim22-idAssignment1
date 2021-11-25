@@ -1,0 +1,1040 @@
+/*iphone 12, 12 pro 390x844*/
+@media screen and (min-width: 390px) {
+    /*homepage*/
+    header h1 {
+        width: 100%;
+    }
+
+    #infoImg {
+        width: 100%;
+        margin: 0;
+
+    }
+
+    aside {
+        position: relative;
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+        margin-bottom: 2%;
+    }
+
+    #netball{
+        position: relative;
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+    }
+
+    iframe {
+        margin: 0;
+        width: 100%;
+        position: relative;
+    }
+
+    /*resume*/
+    #education {
+        width: 100%;
+    }
+
+    #eduheader {
+        width: 100%;
+        margin-left: 0;
+        
+    }
+
+    #eduinfo {
+        width: 100%;
+        margin-left: 0;
+        left: 0;
+    }
+
+    #work {
+        width: 100%;
+    }
+
+    #workheader {
+        width: 100%;
+        margin-left: 0;
+        
+    }
+
+    #workinfo {
+        width: 100%;
+        margin-left: 0;
+        left: 0;
+    }
+
+    #volunteer {
+        width: 100%;
+    }
+
+    #volunteerheader {
+        width: 100%;
+        margin-left: 0;
+        
+    }
+
+    #volunteerinfo {
+        width: 100%;
+        margin-left: 0;
+        left: 0;
+    }
+
+    /*portfolio*/
+    #bobaimg {
+        width: 60%;
+        margin-left: 21%;
+        margin-bottom: 1%;
+    }
+
+    #bobaimg:hover{
+        width:62%;
+    }
+
+    #designOne {
+        width: 100%;
+        margin-left: 0;
+        left: 0;
+    }
+
+    #foodtruckimg {
+        width: 60%;
+        margin-left: 22%;
+        margin-bottom: 1%;
+    }
+    
+    #foodtruckimg:hover{
+        width:62%;
+    }
+    
+    #designTwo {
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+    }
+
+    #superviseimg {
+        width: 80%;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    
+    #superviseimg:hover{
+        width:82%;
+    }
+    
+    #achievement1 {
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+    }
+
+    #unsuperviseimg {
+        width: 80%;
+        margin-left: 10%;
+        
+    }
+    
+    #unsuperviseimg:hover{
+        width:82%;
+    }
+    
+    #achievement2 {
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+    }
+
+    input[type=text], input[type=email] {
+        width: 60%;
+        height: 10%;
+    }
+
+    textarea {
+        width: 9cm;
+    }
+}
+
+/*ipad, nexus9 768x1024*/
+@media screen and (min-width: 768px) {
+    /*homepage*/
+    ul {
+        font-size: 20pt;
+    }
+
+    .dot {
+        height: 20px;
+        width: 20px;
+    }
+
+    aside h4 {
+        font-size: 30pt;
+    }
+
+    aside p {
+        font-size: 20pt;
+    }
+
+    /*resume*/
+    #resumetitle h2 {
+        font-size: 30pt;
+    }
+
+    #resumetitle p {
+        font-size: 20pt;
+    }
+
+    #eduheader {
+        font-size: 30pt;
+    }
+
+    #workheader {
+        font-size: 30pt;
+    }
+
+    #volunteerheader {
+        font-size: 30pt;
+    }
+
+    /*portfolio*/
+    #portfoliotitle h2 {
+        font-size: 30pt;
+    }
+
+    #portfoliotitle p {
+        font-size: 20pt;
+    }
+
+    #contactInfo h2 {
+        font-size: 30pt;
+    }
+
+    input[type=text], input[type=email] {
+        width: 40%;
+    }
+
+    /*footer*/
+    footer {
+        font-size: 15pt;
+    }
+}
+
+/*webpage 1280x800*/
+@media screen and (min-width: 1280px) {
+    /*homepage*/
+    #infoImg {
+        width: 40%;
+    }
+
+    aside h4 {
+        font-size: 20pt;
+    }
+
+    aside p {
+        font-size: 15pt;
+    }
+
+    aside{
+        width: 55%;
+        position: absolute;
+        top: 115%;
+        left: 42%;
+    }
+
+    #netball{
+        width: 55%;
+        position: absolute;
+        top: 180%;
+        left: 42%;
+    }
+
+    iframe {
+        width: 40%;
+    }
+
+    /*resume*/
+    #resumetitle h2 {
+        font-size: 20pt;
+    }
+
+    #resumetitle p {
+        font-size: 15pt;
+    }
+
+    #education {
+        padding-bottom: 13%;
+    }
+
+    #eduheader {
+        width: 20%;
+        font-size: 20pt;
+        margin-left: 10%;
+        margin-top: 13%;
+    }
+
+    #eduinfo {
+        width: 50%;
+        left: 48%;
+        top: 40%;
+    }
+
+    #work {
+        padding-bottom: 16%;
+    }
+    
+    #workinfo {
+        width: 50%;
+        top: 92%;
+        left: 48%;
+    }
+    
+    #workheader {
+        font-size: 20pt;
+        margin-left: 10%;
+        margin-top: 16%;
+        width: 20%;
+    }
+    
+    #volunteer {
+        padding-bottom: 13%;
+    }
+    
+    #volunteerinfo {
+        width: 50%;
+        top: 156%;
+        left: 48%;
+    }
+    
+    #volunteerheader {
+        font-size: 20pt;
+        margin-left: 10%;
+        margin-top: 13%;
+        width: 23%;
+    }
+
+    /*portfolio*/
+    #portfoliotitle h2{
+        font-size: 20pt;
+    }
+
+    #portfoliotitle p {
+        font-size: 15pt;
+    }
+    
+    
+    /*#portfolioOne {
+        border: 2px solid black;
+        border-radius: 5px;
+        width: 100%;
+        padding-bottom: 3%;
+        margin-top: 10px;
+    }*/
+    
+    #bobaimg {
+        padding-top: 2%;
+        display: flex;
+        width: 20%;
+        margin-left: 15%;
+        transition: width 2s;
+    }
+    
+    #bobaimg:hover{
+        width:21%;
+    }
+    
+    #designOne {
+        display: flex;
+        flex-direction: column;
+        width: 40%;
+        top: 51%;
+        left: 45%;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-left: 10px;
+        border-radius: 5px;
+        background-color: #222222;
+    }
+    
+    /*#portfolioFour {
+        border: 2px solid black;
+        border-radius: 5px;
+        width: 100%;
+        padding-bottom: 3%;
+        margin-top: 10px;
+    }*/
+    
+    #foodtruckimg {
+        padding-top: 2%;
+        display: flex;
+        width: 20%;
+        margin-left: 15%;
+        transition: width 2s;
+    }
+    
+    #foodtruckimg:hover{
+        width:21%;
+    }
+    
+    #designTwo {
+        display: flex;
+        flex-direction: column;
+        width: 40%;
+        top: 98%;
+        left: 45%;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-left: 10px;
+        border-radius: 5px;
+        background-color: #222222;
+    }
+    
+    /*#portfolioTwo {
+        border: 2px solid black;
+        border-radius: 5px;
+        width: 100%;
+        padding-bottom: 3%;
+        margin-top: 10px;
+    }*/
+    
+    #superviseimg {
+        padding-top: 5%;
+        display: flex;
+        width: 30%;
+        margin-left: 10%;
+        transition: width 2s;
+    }
+    
+    #superviseimg:hover{
+        width:31%;
+    }
+    
+    #achievement1 {
+        display: flex;
+        flex-direction: column;
+        width: 40%;
+        top: 143%;
+        left: 45%;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-left: 10px;
+        border-radius: 5px;
+        background-color: #222222;
+    }
+    
+    /*#portfolioThree {
+        border: 2px solid black;
+        border-radius: 5px;
+        width: 100%;
+        padding-bottom: 3%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }*/
+    
+    #unsuperviseimg {
+        padding-top: 5%;
+        display: flex;
+        width: 30%;
+        margin-left: 10%;
+        padding-bottom: 2%;
+        transition: width 2s;
+    }
+    
+    #unsuperviseimg:hover{
+        width:31%;
+    }
+    
+    #achievement2 {
+        display: flex;
+        flex-direction: column;
+        width: 40%;
+        top: 186%;
+        left: 45%;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-left: 10px;
+        border-radius: 5px;
+        background-color: #222222;
+    }
+
+    /*contact*/
+    input[type=text], input[type=email] {
+        width: 22%;
+    }
+
+
+}
+
+/*Web 1920x1080*/
+@media screen and (min-width: 1920px) {
+    /*homepage*/
+    header h1 {
+        font-size: 40pt;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+        display: flex;
+        justify-content: center;
+        font-size: 20pt;
+    }
+
+    .number {
+        font-size: 20px;
+    }
+
+    .prev, .next {
+        padding: 30px;
+    }
+
+    .dot {
+        height: 25px;
+        width: 25px;
+    }
+
+    aside{
+        width: 45%;
+        top: 133%;
+        left: 49%;
+    }
+
+    aside p {
+        font-size: 24px;
+    }
+
+    aside h4 {
+        font-size: 30px;
+    }
+
+    iframe {
+        width: 769px;
+        height: 390px;
+    }
+
+    #netball{
+        top: 196%;
+        left: 49%;
+        width: 45%;
+    }
+
+    /*resume*/
+    #resumetitle h2{
+        font-size: 30pt;
+    }
+    
+    #resumetitle p{
+        font-size: 20pt;
+    }
+
+    #education {
+        font-size: 30px;
+        padding-bottom: 9%;
+    }
+
+    #eduheader {
+        margin-top: 9%;
+        
+    }
+    
+    #eduinfo {
+        top: 43%;
+    }
+    
+    #work {
+        font-size: 25px;
+        padding-bottom: 13%;
+    }
+    
+    #workinfo {
+        top: 85%;
+    }
+    
+    #workheader {
+        margin-left: 9%;
+        margin-top: 16%;
+        width: 19%;
+    }
+    
+    #volunteer {
+        font-size: 25px;
+    }
+    
+    #volunteerinfo {
+        top: 150%;
+    }
+    
+    #volunteerheader {
+        margin-left: 9%;
+        width: 20%;
+    }
+
+    /*portfolio*/
+    #portfoliotitle h2{
+        font-size: 40px;
+    }
+    
+    #portfoliotitle {
+        font-size: 30px;
+    }
+    
+    #designOne {
+        /*margin-top: 3%;*/
+        top: 56%;
+    }
+
+    #superviseimg {
+        margin-top: 3%;
+        padding: 0;
+    }
+
+    #designTwo {
+        top: 106%;
+    }
+    
+    #achievement1 {
+        top: 151%;
+    }
+    
+    #achievement2 {
+        top: 199%;
+    }
+
+    /*contact*/
+    #contactInfo h2{
+        font-size: 40px;
+    }
+    
+    #contactInfo {
+        font-size: 30px;
+    }
+
+    #contactInfo h4{
+        font-size: 35px;
+    }
+
+    textarea {
+        width: 15cm;
+        height: 4cm;
+    }
+
+    #socialHeader {
+        font-size: 30px;
+    }
+
+    #twitterImg {
+        width: 100%;
+    }
+    
+    #youtubeImg {
+        width: 100%;
+    }
+
+    #linkedinBtn {
+        padding: 20px;
+        font-size: 20px;
+    }
+
+    /*footer*/
+    footer {
+        font-size: 25px;
+    }
+    
+}
+
+
+/*newest media*/
+@media screen and (max-width:400px) {
+
+    #infoImg {
+        position: relative;
+        width: 100%;
+        margin-left: 0;
+        margin-bottom: 1%;
+    }
+
+    aside {
+        position: relative;
+        width: 100%;
+        left: 0;
+        padding: 1%;
+    }
+
+    #netballVid{
+        position: relative;
+        margin-left: 0;
+        margin-top: 6%;
+    }
+
+    iframe {
+        width: 100%;
+    }
+
+    #netball {
+        position: relative;
+        width: 100%;
+        left: 0;
+        margin-bottom: 2%;
+    }
+
+    /*resume*/
+    #education {
+        width: 100%;
+    }
+
+    #eduheader {
+        position: relative;
+        width: 100%;
+        margin-left: 0;
+    }
+
+    #eduinfo {
+        position: relative;
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+    }
+
+    #work {
+        width: 100%;
+    }
+
+    #workheader {
+        position: relative;
+        width: 100%;
+        margin-left: 0;
+    }
+
+    #workinfo {
+        position: relative;
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+    }
+
+    #volunteer {
+        width: 100%;
+    }
+
+    #volunteerheader {
+        position: relative;
+        width: 100%;
+        margin-left: 0;
+    }
+
+    #volunteerinfo {
+        position: relative;
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+    }
+    
+    /*portfoilo*/
+    #bobaimg {
+        position: relative;
+        width: 40%;
+        margin-left: 30%;
+    }
+
+    #bobaimg:hover {
+        width: 42%;
+    }
+
+    #designOne {
+        position: relative;
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+    }
+
+    #foodtruckimg {
+        position: relative;
+        width: 40%;
+        margin-left: 30%;
+    }
+
+    #foodtruckimg:hover {
+        width: 42%;
+    }
+
+    #designTwo {
+        position: relative;
+        width: 100%;
+        margin-top: 5%;
+        left: 0;
+        margin-left: 0;
+    }
+
+    #superviseimg {
+        position: relative;
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    #superviseimg:hover {
+        width: 92%;
+    }
+
+    #achievement1 {
+        position: relative;
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+        margin-top: 5%;
+    }
+
+    #unsuperviseimg {
+        position: relative;
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    #unsuperviseimg:hover {
+        width: 92%;
+    }
+
+    #achievement2 {
+        position: relative;
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+        margin-top: 5%;
+    }
+
+    /*contact*/
+    input[type=text], input[type=email] {
+        width: 70%;
+        background: lightgray;
+    }
+}
+
+@media screen and (max-width:768px) {
+    aside {
+        text-align: center;
+    }
+
+    /*resume*/
+    #eduheader {
+        position: relative;
+        margin-top: 4%;
+    }
+
+    #workheader {
+        position: relative;
+        margin-top: 4%;
+    }
+
+    #workinfo {
+        position: relative;
+        margin-top: 8%;
+    }
+
+    #volunteerheader {
+        position: relative;
+        margin-top: 4%;
+    }
+
+    #volunteerinfo {
+        position: relative;
+        margin-top: 8%;
+    }
+
+    /*contact*/
+    input[type=text], input[type=email] {
+        width: 37%;
+        background: lightgray;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    /*home*/
+    #infoImg {
+        width: 40%;
+        margin-left: 5%;
+    }
+    
+    aside{
+        position: absolute;
+        width: 45%;
+        top: 100%;
+        left: 49%;
+        text-align: left;
+    }
+
+    #netball{
+        position: absolute;
+        width: 45%;
+        top: 30%;
+        left: 48%;
+    }
+
+    iframe {
+        width: 43%;
+    }
+    
+    #netballVid {
+        position: relative;
+        margin-left: 5%;
+    }
+
+    /*resume*/
+    #resumetitle h2{
+        font-size: 20pt;
+    }
+    
+    #resumetitle {
+        font-size: 15pt;
+    }
+
+    #education {
+        padding-bottom: 10%;
+    }
+    
+    #eduheader {
+        position: relative;
+        margin-left: 10%;
+        margin-top: 10%;
+        border-radius: 30px 90px;
+        background: lightcoral;
+        width: 15%;
+        padding:1%;
+    }
+    
+    #eduinfo {
+        position: absolute;
+        width: 55%;
+        top: 25%;
+        left: 38%;
+    }
+
+    #work {
+        padding-bottom: 15%;
+    }
+    
+    #workinfo {
+        position: absolute;
+        width: 55%;
+        top: 57%;
+        left: 38%;
+    }
+    
+    #workheader {
+        position: relative;
+        margin-left: 10%;
+        margin-top: 15%;
+        border-radius: 30px 90px;
+        background: lightcoral;
+        width: 15%;
+        padding:1%;
+    }
+
+    #volunteer {
+        padding-bottom: 12%;
+    }
+    
+    #volunteerinfo {
+        position: absolute;
+        width: 55%;
+        top: 107%;
+        left: 38%;
+    }
+    
+    #volunteerheader {
+        position: relative;
+        margin-left: 8%;
+        margin-top: 12%;
+        width: 20%;
+        padding:1%;
+    }
+
+    /*portfoilo*/
+    #portfoliotitle h2{
+        font-size: 20pt;
+    }
+    
+    #portfoliotitle {
+        font-size: 15pt;
+    }
+    
+    #bobaimg {
+        position: relative;
+        width: 20%;
+        margin-left: 15%;
+    }
+    
+    #bobaimg:hover{
+        width:21%;
+    }
+    
+    #designOne {
+        position: absolute;
+        width: 40%;
+        top: 34%;
+        left: 45%;
+    }
+    
+    #foodtruckimg {
+        position: relative;
+        width: 20%;
+        margin-left: 15%;
+    }
+    
+    #foodtruckimg:hover{
+        width:21%;
+    }
+    
+    #designTwo {
+        position: absolute;
+        width: 40%;
+        top: 74%;
+        left: 45%;
+    }
+    
+    #superviseimg {
+        position: relative;
+        width: 30%;
+        margin-left: 10%;
+    }
+    
+    #superviseimg:hover{
+        width:31%;
+    }
+    
+    #achievement1 {
+        position: absolute;
+        width: 40%;
+        top: 110%;
+        left: 45%;
+    }
+    
+    #unsuperviseimg {
+        position: relative;
+        width: 30%;
+        margin-left: 10%;
+    }
+    
+    #unsuperviseimg:hover{
+        width:31%;
+    }
+    
+    #achievement2 {
+        position: absolute;
+        width: 40%;
+        top: 146%;
+        left: 45%;
+    }
+
+    /*contact*/
+    input[type=text], input[type=email] {
+        width: 22%;
+        background: lightgray;
+    }
+
+    /*footer*/
+    footer {
+        font-size: 15pt;
+    }
+}
