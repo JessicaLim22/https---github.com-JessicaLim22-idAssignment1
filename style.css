@@ -127,10 +127,6 @@ ul {
     justify-content: center;
 }
   
-/*li {
-    float: left;
-}*/
-  
 li a {
     display: block;
     color: white;
@@ -138,8 +134,7 @@ li a {
     padding: 15px 8px;
     text-decoration: none;
 }
-  
-  /* Change the link color to #111 (black) on hover */
+
 li a:hover {
     background-color: #111;
 }
@@ -249,8 +244,6 @@ h4 {
 }
 
 #eduinfo {
-    /*display: flex;
-    flex-direction: column;*/
     position: absolute;
     width: 55%;
     top: 32%;
@@ -397,8 +390,6 @@ h4 {
 }
 
 #designTwo {
-    /*display: flex;
-    flex-direction: column;*/
     position: absolute;
     width: 40%;
     top: 95%;
@@ -936,3 +927,4 @@ footer {
     }
     
 }
+
