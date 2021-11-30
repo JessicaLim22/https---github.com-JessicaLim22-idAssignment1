@@ -877,5 +877,18 @@ footer {
     }
 }
 
+@media screen and (max-width:1280px) {
+    aside {
+        position: absolute;
+        top: 100%;
+    }
 
+    iframe {
+        width: 42%;
+    }
+
+    #netball {
+        width: 45%;
+    }
+}
 
