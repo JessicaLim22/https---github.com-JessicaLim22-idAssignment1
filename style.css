@@ -877,13 +877,14 @@ footer {
     }
 }
 
-/* @media screen and (min-width:976px) {
+/* @media screen and (min-width:976px) { 
     #infoImg {
         width: 40%;
     }
     aside {
         position: absolute;
-        top: 155%;
+        top: 115%;
+        
     }
 
     iframe {
@@ -892,7 +893,7 @@ footer {
 
     #netball {
         width: 45%;
-    }
+    }*/
 
     /*resume*/
     /*#volunteerheader {
