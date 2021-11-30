@@ -877,7 +877,7 @@ footer {
     }
 }
 
-@media screen and (max-width:2160px) {
+/* @media screen and (min-width:976px) {
     #infoImg {
         width: 40%;
     }
@@ -895,12 +895,12 @@ footer {
     }
 
     /*resume*/
-    #volunteerheader {
+    /*#volunteerheader {
         width: 18%;
-    }
+    }*/
 
     /*portfoilo*/
-    #designTwo {
+    /*#designTwo {
         position: absolute;
         top: 97%;
     }
@@ -914,5 +914,5 @@ footer {
         position: absolute;
         top: 181%;
     }
-}
+} */
 
