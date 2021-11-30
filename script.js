@@ -1,3 +1,4 @@
+/*Slideshow javascript*/
 var slideIndex = 1;
 
 /*console.log(showSlides(slideIndex));*/
