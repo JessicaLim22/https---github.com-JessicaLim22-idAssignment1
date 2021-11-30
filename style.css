@@ -880,7 +880,7 @@ footer {
 @media screen and (max-width:1280px) {
     aside {
         position: absolute;
-        top: 100%;
+        top: 120%;
     }
 
     iframe {
