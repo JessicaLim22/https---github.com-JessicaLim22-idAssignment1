@@ -1,5 +1,6 @@
 # idAssignment1
-This is my ID assignment 1 which is an about me website, which includes my resume page, portfolio page and contact page. I did this website about me to summarise and showcase what I have learnt, experienced and done throughtout all my years of studies as well as working.
+This is my ID assignment 1 which is an about me website, which includes my resume page, portfolio page and contact page. I did this website about me to summarise and showcase what I have learnt, experienced and done throughtout all my years of studies as well as working. This website is catering to any company that is interesting in recruiting employees or any users or company that wants to get to know my what I have done and me better.
+
 
 Design process
 - As a user type, I would like to see the space being used up
